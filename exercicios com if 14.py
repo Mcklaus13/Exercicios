@@ -1,6 +1,6 @@
 import math
 
-print('Equaçao do 2o grau da forma: ax² + bx + c')
+print('Equaçao do 2º grau da forma: ax² + bx + c')
 
 a = int(input('Coeficiente a: '))
 
