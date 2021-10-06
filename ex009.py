@@ -1,0 +1,5 @@
+n = float(input('Uma distância  em metros: '))
+print(f'A medida de {n}m corresponde a:')
+print(f'{n * 100:.0f}cm\n{n * 1000:.0f}mm')
+print(f'{n * 0.001}Km\n{n * 0.01}hm\n{n * 0.1:.1f}dam')
+print(f'{n * 10:.0f}dm')
